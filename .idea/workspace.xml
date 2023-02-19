@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d514b09-b220-4711-85fa-b6f25f377fe3" name="Changes" comment="renomear">
+    <list default="true" id="2d514b09-b220-4711-85fa-b6f25f377fe3" name="Changes" comment="Array">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
@@ -39,53 +42,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Victo/OneDrive/Documentos/GitHub",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Victo/OneDrive/Documentos/GitHub&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Victo\OneDrive\Documentos\GitHub\Kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.IntroArraysKt">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Kotlin.UsaPrateleiraKt">
+    <configuration name="ListaDeLivrosCom_NulosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListaDeLivrosCom_NulosKt" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleDeFluxo_ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo_ForKt" />
-      <module name="kothin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_forKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_forKt" />
-      <module name="kothin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntroArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntroArraysKt" />
+    <configuration name="ListaDeLivrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListaDeLivrosKt" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteKt" />
+    <configuration name="SalariosComBigDecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalariosComBigDecimalKt" />
+      <module name="Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalariosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalariosKt" />
+      <module name="Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsaPrateleiraKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.UsaPrateleiraKt" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.IntroArraysKt" />
-        <item itemvalue="Kotlin.TesteKt" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Kotlin.Exercicio_forKt" />
-        <item itemvalue="Kotlin.ControleDeFluxo_ForKt" />
+        <item itemvalue="Kotlin.UsaPrateleiraKt" />
+        <item itemvalue="Kotlin.ListaDeLivrosCom_NulosKt" />
+        <item itemvalue="Kotlin.ListaDeLivrosKt" />
+        <item itemvalue="Kotlin.SalariosComBigDecimalKt" />
+        <item itemvalue="Kotlin.SalariosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675199282013</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Array">
+      <created>1675205497021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675205497021</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +150,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renomear" />
-    <option name="LAST_COMMIT_MESSAGE" value="renomear" />
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kothin$IntroArraysKt.ic" NAME="IntroArraysKt Coverage Results" MODIFIED="1675205771806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
